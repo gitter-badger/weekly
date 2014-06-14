@@ -1,3 +1,5 @@
+#### 最新 issue
+* http://gitlab.zyhack.cn/node-party/introduction/issues/1
 #### 基础设施
 * [归档](http://gitlab.zyhack.cn/node-party/introduction/issues?assignee_id=&label_name=&milestone_id=&scope=all&sort=&state=all)
 * [里程碑](http://gitlab.zyhack.cn/node-party/introduction/milestones)
