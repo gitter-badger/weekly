@@ -1,5 +1,5 @@
 #### Node Party
-* [归档]()
+* [归档](http://gitlab.zyhack.cn/node-party/introduction/issues)
 * 进行中的
   * Inspect 查看 vm 变量的工具
   * 翻译一篇文章
@@ -8,4 +8,3 @@
 
 * [工作流介绍](./)
   * 使用 git flow
-
