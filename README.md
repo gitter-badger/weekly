@@ -1,5 +1,8 @@
-#### 最新 issue
+#### 最新动态
 * http://gitlab.zyhack.cn/node-party/introduction/issues/1
+
+#### 季度里程碑
+* [更新至 2014 Q2](http://gitlab.zyhack.cn/node-party/introduction/milestones)
 
 #### 基础设施
 * [归档](http://gitlab.zyhack.cn/node-party/introduction/issues?assignee_id=&label_name=&milestone_id=&scope=all&sort=&state=all)
