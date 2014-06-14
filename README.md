@@ -1,7 +1,6 @@
 #### 基础设施
 * [归档](http://gitlab.zyhack.cn/node-party/introduction/issues?assignee_id=&label_name=&milestone_id=&scope=all&sort=&state=all)
 * 旺群 1356787386
-* 微信公众账号(筹..)
 * 其他建设中...
 * [你的点子](http://gitlab.zyhack.cn/node-party/introduction/tree/master)
 
