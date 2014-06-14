@@ -15,10 +15,12 @@
 * 每周进行分享，以 issue 的形式发出，以每个 Q (季度)作为里程碑归档
 * 每周内容包括但不限于
 
-  基础设施持续完善，即 Node Party 的建设
-  提升效率的技巧
-  Stackoverflow 优秀问答
-  Github 使用相关
-  Github 项目相关
-  Node 应用分享
-  Node 技术分享
+```
+基础设施持续完善，即 Node Party 的建设  
+提升效率的技巧  
+Stackoverflow 优秀问答  
+Github 使用相关  
+Github 项目相关  
+Node 应用分享  
+Node 技术分享  
+```
