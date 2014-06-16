@@ -8,7 +8,7 @@
 * [weekly](http://gitlab.zyhack.cn/node-party/introduction/issues?assignee_id=&label_name=&milestone_id=&scope=all&sort=&state=all)
 * [里程碑](http://gitlab.zyhack.cn/node-party/introduction/milestones)
 * 旺群 1356787386
-* 私有组 `OpenSource`
+* 私有组 `OpenSource`[here](http://gitlab.zyhack.cn/groups/opensource)
 * 其他建设中...
 * [讨论区](http://gitlab.zyhack.cn/node-party/introduction/wall)
 
