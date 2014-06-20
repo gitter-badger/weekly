@@ -2,15 +2,12 @@
 * https://github.com/NodeParty/weekly/issues/2
 
 #### 季度里程碑
-* [更新至 2014 Q2](http://gitlab.zyhack.cn/node-party/introduction/milestones)
+* [更新至 2014 Q2](https://github.com/NodeParty/weekly/issues?milestone=1)
 
 #### 归档
-* [weekly](http://gitlab.zyhack.cn/node-party/introduction/issues?assignee_id=&label_name=&milestone_id=&scope=all&sort=&state=all)
-* [里程碑](http://gitlab.zyhack.cn/node-party/introduction/milestones)
+* [weekly](https://github.com/NodeParty/weekly/issues?page=1&state=closed)
+* [里程碑](https://github.com/NodeParty/weekly/issues/milestones)
 * 旺群 1356787386
-* 私有组 `OpenSource`[here](http://gitlab.zyhack.cn/groups/opensource)
-* 其他建设中...
-* [讨论区](http://gitlab.zyhack.cn/node-party/introduction/wall)
 
 #### 现阶段目标
 * 每周进行分享，以 issue 的形式发出，以每个 Q (季度)作为里程碑归档
