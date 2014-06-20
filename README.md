@@ -1,5 +1,5 @@
 #### 最新动态
-* http://gitlab.zyhack.cn/node-party/introduction/issues/2
+* https://github.com/NodeParty/weekly/issues/2
 
 #### 季度里程碑
 * [更新至 2014 Q2](http://gitlab.zyhack.cn/node-party/introduction/milestones)
