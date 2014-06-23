@@ -1,5 +1,5 @@
 #### 最新动态
-* https://github.com/NodeParty/weekly/issues/2
+* https://github.com/NodeParty/weekly/issues/3
 
 #### 季度里程碑
 * [更新至 2014 Q2](https://github.com/NodeParty/weekly/issues?milestone=1)
