@@ -1,10 +1,8 @@
 #### 最新动态
-* https://github.com/NodeParty/weekly/issues/3
+* weekly: https://github.com/NodeParty/weekly/issues/3
+* 季度里程碑 https://github.com/NodeParty/weekly/issues/milestones
 
-#### 季度里程碑
-* [更新至 2014 Q2](https://github.com/NodeParty/weekly/issues/milestones)
-
-#### 归档
+#### 历史归档
 * [每周历史记录](https://github.com/NodeParty/weekly/issues?page=1&state=closed)
 * [每季度里程碑](https://github.com/NodeParty/weekly/issues/milestones)
 * 旺群 1356787386
