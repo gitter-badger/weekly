@@ -1,0 +1,18 @@
+{
+  "name": "co-test",
+  "version": "0.0.0",
+  "description": "co test",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "co",
+    "test"
+  ],
+  "dependencies": {
+    "co": "*"
+  },
+  "author": "Nightink",
+  "license": "MIT"
+}
