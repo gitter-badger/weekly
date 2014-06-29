@@ -32,7 +32,7 @@ function *b() {
 }
 
 function *c() {
-  yield b();
+  yield* b();
   obj.push(yield r());
 
   return 1
