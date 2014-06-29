@@ -5,7 +5,6 @@
 #### 历史归档
 * [每周历史记录](https://github.com/NodeParty/weekly/issues?page=1&state=closed)
 * [每季度里程碑](https://github.com/NodeParty/weekly/issues/milestones)
-* 旺群 1356787386
 
 #### 现阶段目标
 * 每周进行分享，以 issue 的形式发出，以每个 Q (季度)作为里程碑归档
