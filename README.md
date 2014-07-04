@@ -1,5 +1,5 @@
 #### weekly 动态
-* [最新 issur-4](https://github.com/ProParty/weekly/issues/4)
+* [最新 issue-4](https://github.com/ProParty/weekly/issues/4)
 * [全部历史记录](https://github.com/ProParty/weekly/issues?page=1&state=closed)
 * [每季度里程碑](https://github.com/ProParty/weekly/issues/milestones)
 
