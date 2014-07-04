@@ -1,5 +1,6 @@
 #### weekly 动态
-* [每周历史记录](https://github.com/ProParty/weekly/issues?page=1&state=closed)
+* [最新 issur-4](https://github.com/ProParty/weekly/issues/4)
+* [全部历史记录](https://github.com/ProParty/weekly/issues?page=1&state=closed)
 * [每季度里程碑](https://github.com/ProParty/weekly/issues/milestones)
 
 #### 现阶段目标
@@ -7,9 +8,6 @@
 * 每周内容包括但不限于
 
 ```
-提升效率的技巧  
-Stackoverflow 优秀问答  
-Github 项目相关  
 应用分享  
 技术分享  
 ```
