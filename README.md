@@ -1,9 +1,10 @@
 #### weekly 动态
 * [最新 issue 13](https://github.com/ProParty/weekly/issues/13)
 * [全部 issue 列表](https://github.com/ProParty/weekly/issues?page=1&state=closed)
-* [季度里程碑]
-  * 进行中(https://github.com/ProParty/weekly/milestones?state=open)  
-  * 已完成(https://github.com/ProParty/weekly/milestones?state=closed)
+
+#### 季度里程碑
+* [进行中的里程碑](https://github.com/ProParty/weekly/milestones?state=open)  
+* [已完成的里程碑](https://github.com/ProParty/weekly/milestones?state=closed)
 
 #### 现阶段目标
 * 每周进行分享，以 issue 的形式发出，以每个 Q (季度)作为里程碑归档
