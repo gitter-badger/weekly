@@ -1,5 +1,5 @@
 #### weekly 动态
-* [最新 issue 15](https://github.com/ProParty/weekly/issues/15)
+* [最新 issue 16](https://github.com/ProParty/weekly/issues/16)
 * [全部 issue 列表](https://github.com/ProParty/weekly/issues?page=1&state=closed)
 
 #### 季度里程碑
